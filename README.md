@@ -36,4 +36,4 @@
 
 ## 📬 Contact
 - **Developer:** [Mohammed Abubakar]
-- **GitHub:** https://github.com/itsmdabubakar/File-Locker)
+- **GitHub:** (https://github.com/itsmdabubakar/File-Locker.git)
